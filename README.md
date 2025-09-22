@@ -26,6 +26,7 @@ This project is a C program that allows users to visualize **2D Cartesian planes
    ```bash
    Cartesian_plane.exe
    ```
+
 3. Follow the on-screen menu to select options:
 
    * Draw line (DDA)
