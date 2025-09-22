@@ -70,7 +70,3 @@ MIT License
 ## Short Résumé Description
 
 - **Cartesian Plane Visualization (C)** – Developed a Windows console program to plot lines and circles using **DDA and Bresenham algorithms**. Implemented interactive user input, coordinate-based plotting, and animations to visualize 2D Cartesian planes.  
-
-
-If you want, I can also make an **even shorter one-line bullet** specifically formatted for your résumé to fit under “Projects.” Do you want me to do that?
-```
